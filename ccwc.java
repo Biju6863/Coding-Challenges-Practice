@@ -1,5 +1,5 @@
 import java.io.File;
-class Addition1 {
+class ccwc {
     public static void main(String[] args) {
         String a = args[0];
         File file = new File(args[1]);
